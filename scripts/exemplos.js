@@ -15,7 +15,7 @@ buttonexercicio1.addEventListener('click', () => { exercicio1() })
 //addEventListner
 
 function exercicio2() {
-    alert("OIEE")
+    alert("OIEE, TCHAU")
 }
 const buttonbatata = document.getElementById("batata")
 buttonbatata.addEventListener('click', () => { exercicio2() })
