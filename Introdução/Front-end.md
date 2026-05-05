@@ -1,0 +1,1 @@
+Basicamente é a parte da frente do site, onde a pessoa ira interagir 

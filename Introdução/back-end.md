@@ -1,0 +1,1 @@
+Back-end é a parte "invisível” de site, que funciona por trás das telas
